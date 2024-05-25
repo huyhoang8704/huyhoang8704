@@ -1,5 +1,5 @@
 # 💫About Me :
-HELLO WORLD, I'M HUY HOANG 👋
+    I'M HUY HOANG 👋
     - 🏫 I'm a third-year student at Ho Chi Minh City University of Technology.
     - 📑 I'm interested in pursuing internship or entry-level opportunities in the field of backend development, as I have completed several projects in these areas.
     - 🔍 In my free time, I am always learning new things.
