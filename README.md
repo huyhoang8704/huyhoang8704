@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-    <!-- [![](https://visitcount.itsvg.in/api?id=duchuykg&icon=7&color=12)](https://visitcount.itsvg.in) -->
+    [![](https://visitcount.itsvg.in/api?id=duchuykg&icon=7&color=12)](https://visitcount.itsvg.in)
     <h1> HELLO WORLD, I'M HUY HOANG 👋</h1>
     
     <div id="banner" align="center">
